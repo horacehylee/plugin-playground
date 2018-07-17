@@ -1,7 +1,7 @@
 {
   "name": "plugin-playground",
   "version": "0.0.0",
-  "description": "plugin-playground",
+  "description": "A playground for testing the idea of creating a easy to use plugin framework",
   "license": "MIT",
   "author": {
     "name": "Horace Lee",
